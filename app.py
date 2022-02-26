@@ -55,9 +55,9 @@ def play():
         # Validate answer
         for row in rows:
             if answer.upper() == row["word"].upper():
-                return render_template("success.html", home=home)
+                return render_template("result.html", home=home, result="You succeeded!")
 
-        return render_template("failed.html", home=home)
+        return render_template("result.html", home=home, result="You failed:(")
 
     else:
         # Get key
