@@ -164,4 +164,4 @@ This folder contains the templates that will be rendered in app.py
 
 satriadhikara - [@satriadhikara](https://twitter.com/satriadhikara) - [satriadhikara@gmail.com](mailto:satriadhikara@gmail.com)
 
-Project link: [words-seeker](https://github.com/satriadhikara/words-seek.git)
+Project link: [words-seek](https://github.com/satriadhikara/words-seek.git)
