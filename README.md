@@ -150,13 +150,9 @@ This folder contains the templates that will be rendered in app.py
 
   > This file contains the guide that tell user how to play the game
 
-- success.html
+- result.html
 
-  > This file contains "you succeeded!" because user's answer was right
-
-- failed.html
-
-  > This file contains "you failed!" because user's answer was wrong
+  > This file contins the result of the game, output "succeeded" if right and "failed" if wrong
 
 ## **Contact**
 
